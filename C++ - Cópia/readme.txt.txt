@@ -10,7 +10,7 @@ EXERCICIO 3
 programa que controla várias opções com apenas 1 else if
 
 EXERCICIO 4
-programa que controla strings
+programa que controla tamanhos e posições de strings
 
 EXERCICIO 5
 calculos matematicos
@@ -51,6 +51,9 @@ troca posições de memória
 EXERCICIO 16
 estruturas
 
+EXERCICIO 17
+estruturas e médias
+
 
 FICHA 1
 realiza as principais funções aritméticas
@@ -69,6 +72,7 @@ convertor decimal para binario e vice-versa
 
 FICHA 6
 converte array em string
+
 
 PILHA
 Coloca os números inseridos pelo utilizador numa pilha e realiza outras funções através de voids e cases
